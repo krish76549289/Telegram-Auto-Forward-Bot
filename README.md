@@ -38,7 +38,8 @@ VERCEL_URL=your_App_name.vercel.app
 ## 🌐 For Vercel/Heroku Users
 1. **Vercel**:
 
-```curl -X POST "https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=https://YOUR_VERCEL_APP.vercel.app/webhook"
+```
+curl -X POST "https://api.telegram.org/botYOUR_BOT_TOKEN/setWebhook?url=https://YOUR_VERCEL_APP.vercel.app/webhook"
 ```
 
 ## ✅ Verification Command
